@@ -1,0 +1,17 @@
+{
+  "name": "명작 영어 클래스",
+  "short_name": "명작 영어",
+  "description": "명작 24편으로 공부하는 6개월 중급 영어",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f6f2",
+  "theme_color": "#26364e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
